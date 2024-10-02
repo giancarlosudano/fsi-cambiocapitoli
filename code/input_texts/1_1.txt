@@ -1,0 +1,97 @@
+1.1 La Sicurezza dal Vecchio al Nuovo Sistema Ferroviario Liberalizzato  
+
+Nel nuovo sistema ferroviario liberalizzato, la sicurezza viene assicurata attraverso un principio fondamentale: ogni Gestore di Infrastruttura (GI) e ogni Impresa Ferroviaria (IF) deve implementare un «Sistema di Gestione della Sicurezza» (SGS), il quale deve essere approvato dalle competenti Autorità di Sicurezza, ossia l’Agenzia Europea ERA e le Autorità Nazionali NSA. Tale approvazione avviene tramite il rilascio dell’«Autorizzazione di Sicurezza» per i GI (rilasciata dall’NSA) e del «Certificato di Sicurezza Unico» (rilasciato dall’ERA o dall’NSA) per le IF. 
+
+ 
+
+Il Sistema di Gestione della Sicurezza, basato sui seguenti elementi: 
+
+ 
+
+•	Organizzazione e Fattore Umano; 
+
+•	Processi e Procedure; 
+
+•	Tecnologie; 
+
+ 
+
+è configurato come un modello organizzativo aziendale, volto a gestire in maniera sistematica le risorse umane, organizzative e strumentali, oltre a tutte le attività interconnesse che incidono sull’esercizio ferroviario, con l’obiettivo di mantenere sotto controllo i rischi associati (vedi figura 11). In altre parole, attraverso questo sistema, i GI e le IF assicurano una gestione sicura e continuativa delle loro attività, adottando un approccio basato sul miglioramento continuo. 
+
+ 
+
+Nel contesto di questo miglioramento, il fattore temporale è cruciale. Da un lato, l’applicazione del cosiddetto “ciclo di Deming” o “ciclo PDCA” (P/Plan = Pianificare, D/Do = Eseguire, C/Check = Controllare, A/Act = Correggere) deve seguire una sequenza di fasi interconnesse (vedi figura 12) eseguite in modo ciclico; dall’altro, la dimensione temporale condiziona ogni volta l’osservazione degli scenari specifici e influenza le valutazioni e azioni conseguenti. 
+
+ 
+
+L’approccio basato sui “processi”, in sostituzione di un’organizzazione per “servizi”, e l’adozione di principi e criteri tipici dei sistemi di qualità, hanno fornito strumenti aggiuntivi per rafforzare il sistema, tenendo conto del contesto operativo in cui l’operatore ferroviario esercita o intende esercitare la propria attività. 
+
+ 
+
+Evoluzione e Risultati del Mercato Liberalizzato 
+
+ 
+
+L’introduzione del mercato liberalizzato non ha comportato solo vantaggi di natura economica e sociale (risanamento e rilancio del sistema ferroviario), ma ha anche apportato miglioramenti in termini di: 
+
+ 
+
+•	Sicurezza, grazie ai SGS basati sul ciclo PDCA; 
+
+•	Interoperabilità, poiché le IF hanno libero accesso alle reti ferroviarie (sia italiane sia europee), purché dispongano di un Certificato di Sicurezza Unico valido per tutte le reti di interesse. 
+
+ 
+
+Questo processo evolutivo, avviato dalla Direttiva UE 440/91, è stato regolamentato a livello comunitario attraverso una serie di «Pacchetti Ferroviari», l’ultimo dei quali è il quarto, la cui applicazione in Italia è iniziata il 16/06/2019. I «Pacchetti Ferroviari» sono raccolte di atti normativi europei (Direttive, Regolamenti, Decisioni, ecc.), emanati con l’obiettivo di migliorare progressivamente i requisiti di sicurezza e l’interoperabilità ferroviaria. 
+
+ 
+
+Esempi di Normative Comunitarie 
+
+ 
+
+Di seguito, riportiamo alcuni esempi significativi delle normative contenute nei vari «Pacchetti Ferroviari» a favore della sicurezza e dell’interoperabilità: 
+
+ 
+
+•	Direttiva Macchinisti (Direttiva UE 59/2007, recepita in Italia con DLgs 247/2010); 
+
+•	Direttiva Sicurezza (Direttiva UE 798/2016, recepita in Italia con DLgs 50/2019), che regola i compiti dell’Agenzia Europea e delle Autorità Nazionali per la Sicurezza; 
+
+•	Metodi Comuni di Sicurezza/CSM, come il Regolamento per la Valutazione del Rischio (Regolamento UE 402/2013) e il Regolamento sui requisiti dei SGS (Regolamento UE 762/2018); 
+
+•	Direttiva Interoperabilità (Direttiva UE 797/2016, recepita in Italia con DLgs 57/2019); 
+
+•	Specifiche Tecniche di Interoperabilità/ STI per la standardizzazione dei criteri di circolazione e della formazione del personale di sicurezza (Regolamento UE 773/2019, aggiornamento della “STI Operation”) e per la standardizzazione dei sistemi di protezione e controllo marcia treni (Regolamento UE 919/2016, “STI Comando-controllo-segnalamento”), che designa il sistema ERTMS/ETCS come lo standard “internazionale” per il controllo marcia treni, permettendo di superare i limiti imposti dai sistemi nazionali (vedi figura 13). 
+
+ 
+
+Normative Sugli Equipaggi 
+
+ 
+
+In particolare, per quanto riguarda gli equipaggi: 
+
+ 
+
+•	La Direttiva UE 59/2007 (recepita in Italia con DLgs 247/2010) stabilisce requisiti di sicurezza standardizzati a livello comunitario (esami medici, competenze) e un sistema di identificazione che supporta l’interoperabilità e il mercato del lavoro. Per l’Agente di Condotta (AdC) prevede il possesso di una Licenza, di proprietà dell’AdC, rilasciata dall’Autorità Nazionale per la Sicurezza e valida in tutto il territorio UE, attestante il possesso dei requisiti sanitari e delle competenze generali. Inoltre, prevede il possesso di un Certificato Complementare Armonizzato (CCA), di proprietà dell’Impresa Ferroviaria/Gestore Infrastruttura di appartenenza, che certifica la competenza per la condotta di specifici mezzi su determinate linee. 
+
+•	Il Regolamento UE 773/2019 (evoluzione del Reg. 995/2015) definisce il ruolo del Capotreno/Train Manager con competenze uniformate a livello comunitario (vedi figura 15), focalizzandosi maggiormente sull’assistenza alla clientela e sugli interventi tecnici sul materiale rimorchiato in caso di emergenza, riducendo le competenze storiche legate al riconoscimento dei segnali. Le mansioni di Preparazione dei Treni ora comprendono anche le attività di Manovra, Formazione e Verifica dei Treni, facilitando la cumulabilità di competenze per i Tecnici Polifunzionali Treno (vedi figura 16), che operano sui treni merci. 
+
+ 
+
+Integrazione Normativa e Sfide Future 
+
+ 
+
+La normativa comunitaria vigente, rappresentata sinteticamente in figura 17, evidenzia in verde i riferimenti relativi al 4° Pacchetto Ferroviario e in rosso le normative correlate. Sono inoltre rappresentati registri dati a livello comunitario (es. ERADIS, NOTIF IT) e l’applicativo “One Stop Shop” (OSS), utilizzato per le richieste dei Certificati di Sicurezza Unici delle IF e per le autorizzazioni di immissione sul mercato di veicoli e sottosistemi di sicurezza. 
+
+ 
+
+L’obiettivo del legislatore comunitario è chiaramente quello di definire standard armonizzati per il monitoraggio, la valutazione della conformità, il controllo e la gestione del rischio, applicabili a tutti gli attori del sistema ferroviario dell’Unione e alle autorità nazionali di sicurezza, creando uno spazio europeo privo dei particolarismi nazionali, o almeno armonizzato da normative comuni. 
+
+ 
+
+Tuttavia, questo processo di integrazione rappresenta una grande sfida per gli operatori ferroviari, in particolare per il consolidamento dei criteri di sicurezza stabiliti a livello comunitario e il raggiungimento di livelli di sicurezza sempre più elevati. Tale miglioramento richiede l’implementazione nei SGS di nuovi elementi, tra cui la promozione della cultura della sicurezza e l’analisi dei fattori umani e organizzativi, considerati aspetti determinanti nella gestione dei rischi nel settore ferroviario.  
+
+ 

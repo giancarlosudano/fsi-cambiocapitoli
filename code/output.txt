@@ -1,0 +1,432 @@
+Titolo: 1.1 La Sicurezza dal Vecchio al Nuovo Sistema Ferroviario Liberalizzato
+
+Nel contesto del nuovo sistema ferroviario liberalizzato, la sicurezza è garantita da un principio cardine: ogni Gestore di Infrastruttura (GI) e ogni Impresa Ferroviaria (IF) deve adottare un «Sistema di Gestione della Sicurezza» (SGS), che deve essere approvato dalle Autorità di Sicurezza competenti, ovvero l’Agenzia Europea ERA e le Autorità Nazionali NSA. Questa approvazione si concretizza attraverso il rilascio dell’«Autorizzazione di Sicurezza» per i GI (rilasciata dall’NSA) e del «Certificato di Sicurezza Unico» (rilasciato dall’ERA o dall’NSA) per le IF.
+
+Il Sistema di Gestione della Sicurezza si basa su tre elementi fondamentali:
+
+- Organizzazione e Fattore Umano
+- Processi e Procedure
+- Tecnologie
+
+Questo sistema è strutturato come un modello organizzativo aziendale, finalizzato a gestire in modo sistematico le risorse umane, organizzative e strumentali, nonché tutte le attività interconnesse che influenzano l’esercizio ferroviario, con l’obiettivo di mantenere sotto controllo i rischi associati (vedi figura 11). In sostanza, attraverso questo sistema, i GI e le IF garantiscono una gestione sicura e continuativa delle loro operazioni, adottando un approccio basato sul miglioramento continuo.
+
+Il fattore temporale gioca un ruolo cruciale in questo contesto. Da un lato, l’applicazione del “ciclo di Deming” o “ciclo PDCA” (P/Plan = Pianificare, D/Do = Eseguire, C/Check = Controllare, A/Act = Correggere) deve seguire una sequenza di fasi interconnesse (vedi figura 12) eseguite ciclicamente; dall’altro, la dimensione temporale influenza l’osservazione degli scenari specifici e le conseguenti valutazioni e azioni.
+
+L’adozione di un approccio basato sui “processi”, in sostituzione di un’organizzazione per “servizi”, e l’implementazione di principi e criteri tipici dei sistemi di qualità, hanno fornito strumenti aggiuntivi per rafforzare il sistema, tenendo conto del contesto operativo in cui l’operatore ferroviario esercita o intende esercitare la propria attività.
+
+Evoluzione e Risultati del Mercato Liberalizzato
+
+L’introduzione del mercato liberalizzato ha portato non solo vantaggi economici e sociali (risanamento e rilancio del sistema ferroviario), ma anche miglioramenti in termini di:
+
+- Sicurezza, grazie ai SGS basati sul ciclo PDCA
+- Interoperabilità, poiché le IF hanno libero accesso alle reti ferroviarie (sia italiane sia europee), purché dispongano di un Certificato di Sicurezza Unico valido per tutte le reti di interesse
+
+Questo processo evolutivo, avviato dalla Direttiva UE 440/91, è stato regolamentato a livello comunitario attraverso una serie di «Pacchetti Ferroviari», l’ultimo dei quali è il quarto, la cui applicazione in Italia è iniziata il 16/06/2019. I «Pacchetti Ferroviari» sono raccolte di atti normativi europei (Direttive, Regolamenti, Decisioni, ecc.), emanati con l’obiettivo di migliorare progressivamente i requisiti di sicurezza e l’interoperabilità ferroviaria.
+
+Esempi di Normative Comunitarie
+
+Ecco alcuni esempi significativi delle normative contenute nei vari «Pacchetti Ferroviari» a favore della sicurezza e dell’interoperabilità:
+
+- Direttiva Macchinisti (Direttiva UE 59/2007, recepita in Italia con DLgs 247/2010)
+- Direttiva Sicurezza (Direttiva UE 798/2016, recepita in Italia con DLgs 50/2019), che regola i compiti dell’Agenzia Europea e delle Autorità Nazionali per la Sicurezza
+- Metodi Comuni di Sicurezza/CSM, come il Regolamento per la Valutazione del Rischio (Regolamento UE 402/2013) e il Regolamento sui requisiti dei SGS (Regolamento UE 762/2018)
+- Direttiva Interoperabilità (Direttiva UE 797/2016, recepita in Italia con DLgs 57/2019)
+- Specifiche Tecniche di Interoperabilità/ STI per la standardizzazione dei criteri di circolazione e della formazione del personale di sicurezza (Regolamento UE 773/2019, aggiornamento della “STI Operation”) e per la standardizzazione dei sistemi di protezione e controllo marcia treni (Regolamento UE 919/2016, “STI Comando-controllo-segnalamento”), che designa il sistema ERTMS/ETCS come lo standard “internazionale” per il controllo marcia treni, permettendo di superare i limiti imposti dai sistemi nazionali (vedi figura 13).
+
+Normative Sugli Equipaggi
+
+In particolare, per quanto riguarda gli equipaggi:
+
+- La Direttiva UE 59/2007 (recepita in Italia con DLgs 247/2010) stabilisce requisiti di sicurezza standardizzati a livello comunitario (esami medici, competenze) e un sistema di identificazione che supporta l’interoperabilità e il mercato del lavoro. Per l’Agente di Condotta (AdC) prevede il possesso di una Licenza, di proprietà dell’AdC, rilasciata dall’Autorità Nazionale per la Sicurezza e valida in tutto il territorio UE, attestante il possesso dei requisiti sanitari e delle competenze generali. Inoltre, prevede il possesso di un Certificato Complementare Armonizzato (CCA), di proprietà dell’Impresa Ferroviaria/Gestore Infrastruttura di appartenenza, che certifica la competenza per la condotta di specifici mezzi su determinate linee.
+- Il Regolamento UE 773/2019 (evoluzione del Reg. 995/2015) definisce il ruolo del Capotreno/Train Manager con competenze uniformate a livello comunitario (vedi figura 15), focalizzandosi maggiormente sull’assistenza alla clientela e sugli interventi tecnici sul materiale rimorchiato in caso di emergenza, riducendo le competenze storiche legate al riconoscimento dei segnali. Le mansioni di Preparazione dei Treni ora comprendono anche le attività di Manovra, Formazione e Verifica dei Treni, facilitando la cumulabilità di competenze per i Tecnici Polifunzionali Treno (vedi figura 16), che operano sui treni merci.
+
+Integrazione Normativa e Sfide Future
+
+La normativa comunitaria vigente, rappresentata sinteticamente in figura 17, evidenzia in verde i riferimenti relativi al 4° Pacchetto Ferroviario e in rosso le normative correlate. Sono inoltre rappresentati registri dati a livello comunitario (es. ERADIS, NOTIF IT) e l’applicativo “One Stop Shop” (OSS), utilizzato per le richieste dei Certificati di Sicurezza Unici delle IF e per le autorizzazioni di immissione sul mercato di veicoli e sottosistemi di sicurezza.
+
+L’obiettivo del legislatore comunitario è chiaramente quello di definire standard armonizzati per il monitoraggio, la valutazione della conformità, il controllo e la gestione del rischio, applicabili a tutti gli attori del sistema ferroviario dell’Unione e alle autorità nazionali di sicurezza, creando uno spazio europeo privo dei particolarismi nazionali, o almeno armonizzato da normative comuni.
+
+Tuttavia, questo processo di integrazione rappresenta una grande sfida per gli operatori ferroviari, in particolare per il consolidamento dei criteri di sicurezza stabiliti a livello comunitario e il raggiungimento di livelli di sicurezza sempre più elevati. Tale miglioramento richiede l’implementazione nei SGS di nuovi elementi, tra cui la promozione della cultura della sicurezza e l’analisi dei fattori umani e organizzativi, considerati aspetti determinanti nella gestione dei rischi nel settore ferroviario.
+
+Titolo: 1.2.1. Quadro normativo di riferimento
+
+Paragrafo:
+
+L'Unione Europea, attraverso l'Agenzia Ferroviaria Europea (ERA), ha stabilito una serie di indicatori per valutare in modo uniforme le prestazioni di sicurezza dei vari Stati membri. Questi indicatori, noti come Common Safety Indicators (CSI), permettono di misurare i livelli di sicurezza ferroviaria in tutta Europa.
+
+I CSI, illustrati nella figura 2, sono suddivisi in diverse categorie come specificato nell'allegato I della Direttiva (UE) 798/2016 sulla sicurezza delle ferrovie, recepita in Italia con il Decreto 50/2019. Le categorie includono:
+
+- Indicatori relativi a incidenti significativi e danni alle persone
+- Indicatori relativi alle merci pericolose
+- Indicatori relativi ai suicidi e tentati suicidi
+- Indicatori relativi ai precursori di incidenti
+- Impatto economico degli incidenti
+- Indicatori relativi alla sicurezza tecnica dell'infrastruttura e della sua realizzazione
+
+Tra questi, gli indicatori relativi agli incidenti significativi sono particolarmente importanti e comprendono:
+
+- Collisione di treno con veicolo ferroviario
+- Collisione di treno contro ostacolo sui binari
+- Deragliamento di treno
+- Incidenti ai passaggi a livello, inclusi quelli con pedoni
+- Incidenti alle persone causati da materiale rotabile in movimento, esclusi suicidi e tentati suicidi
+- Incendi a bordo del materiale rotabile
+- Altri tipi di incidenti
+
+La misurazione degli incidenti significativi è fondamentale per valutare le prestazioni di sicurezza e il raggiungimento degli Obiettivi di Sicurezza Comuni (CST), definiti a livello europeo attraverso i Metodi Comuni di Sicurezza (CSM).
+
+Gli obiettivi e i metodi comuni sono essenziali per garantire che i livelli di sicurezza ferroviaria non diminuiscano in nessuno Stato membro. Gli indicatori permettono di monitorare le prestazioni di sicurezza e di valutare la loro accettabilità, verificando annualmente i danni alle persone causati da incidenti significativi. L'ERA ha definito delle "categorie di rischio" per diverse tipologie di persone che interagiscono con il sistema ferroviario, assegnando a ciascuna un Valore di Riferimento Nazionale (NRV).
+
+Le categorie di rischio includono:
+
+- Passeggeri (considerando il numero totale di passeggeri-chilometri e passeggeri per treno-chilometro)
+- Dipendenti o imprese appaltatrici
+- Utilizzatori dei passaggi a livello
+- Persone che attraversano indebitamente la sede ferroviaria (trespassers)
+- Altre persone sul marciapiede
+- Altre persone non sul marciapiede
+- Rischio per la società nel suo insieme (sommatoria delle precedenti categorie)
+
+Tutte queste categorie si riferiscono a eventi involontari, eccetto per le persone che attraversano indebitamente la sede ferroviaria, che rappresentano un atto volontario di infrazione. I suicidi e i tentati suicidi sono esclusi da queste categorie.
+
+Il Valore di Riferimento Nazionale quantifica il danno che il sistema ferroviario causa alle persone che interagiscono con esso. La Decisione 2009/460/CE ha stabilito l'unità di misura per quantificare i danni alle persone, rappresentata dal FWSI (Fatalities and Weighted Serious Injuries), dove 1 FWSI corrisponde a un decesso e 0,1 FWSI a una lesione grave.
+
+I valori obiettivo (CST e NRV) riguardano l'intero sistema ferroviario del Paese e riflettono i danni causati da incidenti significativi sia dalle attività dei Gestori Infrastruttura che dalle Imprese Ferroviarie. L'algoritmo per calcolare gli NRV si basa sulla media ponderata dei dati storici degli incidenti in ogni Stato membro. L'ERA ha utilizzato un algoritmo simile per definire i CST a livello europeo.
+
+Il metodo di calcolo dei CST e NRV è descritto nella Decisione 2009/460/CE della Commissione, mentre i valori numerici di riferimento sono contenuti nelle Decisioni 2013/753/UE e 2012/226/UE. I valori dei CST e il secondo set di NRV sono stati stabiliti utilizzando i dati degli incidenti ferroviari nell'Unione Europea dal 2004 al 2009, confermando che i livelli di sicurezza del sistema ferroviario comunitario sono generalmente elevati e accettabili, come indicato nel considerando 4 della Direttiva (UE) 798/2016.
+
+Per ogni categoria di rischio, una volta calcolato il valore NRV per ogni Stato membro, il CST corrispondente è determinato come il valore più basso tra:
+
+- Il valore dello NRV più elevato tra gli Stati membri
+- Dieci volte la media europea del NRV considerato
+
+Titolo: 1.2.3. Metodo di valutazione
+
+Paragrafo:
+
+Il metodo utilizzato dall'ERA per valutare il raggiungimento degli obiettivi di sicurezza, illustrato nel diagramma di flusso seguente (vedi fig. 3), si articola in quattro fasi sequenziali e prevede tre possibili esiti.
+
+Nel caso di un "possibile deterioramento delle performance di sicurezza", lo Stato membro è tenuto a redigere un rapporto per la Commissione Europea, evidenziando le cause del peggioramento. Se invece si riscontra un "probabile deterioramento delle performance di sicurezza", lo Stato membro deve presentare un Piano di miglioramento della sicurezza alla Commissione. In sostanza, in entrambi i casi, il paese membro deve analizzare e commentare la propria prestazione e, se necessario, proporre un "Safety Enhancement Plan" per rafforzare la sicurezza.
+
+Di seguito sono descritte le fasi del diagramma di flusso, con riferimento all'ultima valutazione annuale (2022):
+
+Prima fase: i valori della media ponderata mobile (2016-2020) e l'ultimo valore osservato (2020) vengono confrontati con il valore obiettivo assegnato NRV. Se uno di questi valori non supera il NRV, il livello di sicurezza è considerato accettabile. In caso contrario, si procede alla seconda fase di valutazione.
+
+Seconda fase: il valore della media ponderata mobile viene confrontato con il valore NRV moltiplicato per 1,2. Se la media ponderata non supera questo prodotto, il livello di sicurezza è considerato accettabile. Altrimenti, l'ERA contatta l'autorità nazionale preposta alla sicurezza degli Stati membri (nel nostro caso, l'ANSFISA) per ottenere informazioni sul singolo incidente con le conseguenze più gravi degli ultimi cinque anni. Se tale incidente è più grave, in termini di conseguenze sulle persone, del peggiore incidente incluso nei calcoli del NRV, esso viene escluso dal calcolo della media mobile (MWA - Moving Weighted Average), che viene quindi ricalcolata. Se il ricalcolo è inferiore al valore NRV moltiplicato per 1,2, il livello di sicurezza è considerato accettabile; altrimenti, si passa alla terza fase del diagramma di flusso.
+
+Terza fase: si verifica se la seconda fase ha avuto un esito negativo per la prima volta negli ultimi tre anni. Il risultato di questa verifica determina il passaggio alla quarta fase.
+
+Quarta fase: si verifica se il numero di incidenti significativi è rimasto stabile o è diminuito. Il risultato di quest'ultima valutazione può portare a tre possibili esiti:
+
+- performance di sicurezza accettabile;
+- possibile deterioramento delle performance di sicurezza;
+- probabile deterioramento delle performance di sicurezza.
+
+Titolo: 1.2.4. Risultati della valutazione
+
+Paragrafo:
+
+Come già sottolineato, la valutazione annuale 2022 dell'ERA, che copre i 25 Stati Membri dell'UE con sistemi ferroviari, oltre alla Norvegia, si basa sui dati CSI degli anni 2016-2020.
+
+Analogamente alla valutazione del 2021, anche quella del 2022 mostra che l'Italia ha ottenuto una prestazione accettabile già al primo livello per tutte le categorie di rischio (vedi Tab. 1). L'ultima performance leggermente inferiore risale alla valutazione del 2020, basata sui dati del periodo 2014-2018, in cui l'Italia, per la sola categoria "Persone non autorizzate" (Trespassers), aveva raggiunto una prestazione accettabile, ma solo al secondo livello di valutazione.
+
+Per quanto riguarda gli altri Stati Membri, la valutazione ha rilevato prestazioni classificate come "possibile deterioramento delle prestazioni di sicurezza" nei seguenti casi:
+
+- Repubblica Ceca (Altri);
+- Germania (Altri);
+- Spagna (Altri);
+- Francia (Persone non autorizzate);
+- Olanda (Altri);
+- Portogallo (Altri);
+- Slovacchia (Dipendenti o Imprese Appaltatrici);
+- Svezia (Dipendenti o Imprese Appaltatrici).
+
+Nonostante queste osservazioni, la valutazione complessiva indica che, a livello UE, le prestazioni di sicurezza ferroviaria rimangono generalmente accettabili per tutte le categorie di utenti ferroviari.
+
+Titolo: 1.2.5. Considerazioni sul metodo
+
+Paragrafo:
+
+Nella valutazione annuale del 2022, si fa un chiaro riferimento al documento "valutazione ex-post del CSM CST" pubblicato dall'ERA nel marzo 2021.
+
+In questo report, l'ERA mette in luce i "limiti" del metodo utilizzato, principalmente dovuti a valori NRV non aggiornati, che in alcuni casi risultano troppo elevati rispetto a quelli che si otterrebbero utilizzando basi statistiche più recenti e precise.
+
+Il metodo si basa sul confronto tra la media mobile MWA delle prestazioni di sicurezza nel periodo recente, specificamente tra il 2016 e il 2020, e un set "statico" di valori di riferimento NRV calcolati tra il 2004 e il 2009. Poiché le prestazioni di sicurezza a livello europeo sono notevolmente migliorate dal 2004 (vedi fig. 5), il metodo attuale non riesce a rilevare eventuali peggioramenti delle prestazioni di sicurezza negli ultimi periodi.
+
+L'ERA sottolinea quindi la necessità di aggiornare i valori di riferimento NRV, in linea con quanto previsto dalla Direttiva (UE) 798/2016 (art. 7 comma 5), per migliorare l'efficacia dell'applicazione del CSM definito nella Decisione 2009/460/CE, promuovendo un miglioramento continuo delle prestazioni di sicurezza.
+
+A tal proposito, nel report di valutazione ex-post del CSM CST è stata inclusa anche una proiezione dei risultati, confrontando la valutazione del 2020 con un ipotetico terzo set di valori NRV/CST basato sui dati dei CSI calcolati tra il 2013 e il 2017. Da questa proiezione emerge un peggioramento per l'Italia nelle categorie di rischio "Passeggeri" e "Dipendenti o Imprese Appaltatrici", come illustrato nella tabella 2 estratta dal report stesso.
+
+5. Conclusioni
+
+Come evidenziato dall'ERA nell'ultimo report sul raggiungimento degli obiettivi di sicurezza, per il secondo anno consecutivo le prestazioni di sicurezza per l'Italia sono risultate accettabili al primo step per tutte le categorie di rischio.
+
+Anche la valutazione del 2021 aveva mostrato per l'Italia una prestazione accettabile già al primo step per tutte le categorie di rischio, migliorando i risultati della valutazione precedente, in cui per la categoria "Persone non autorizzate" le performance risultavano comunque accettabili, ma al secondo step di valutazione. Questo conferma la tendenza positiva delle prestazioni di sicurezza complessive del sistema ferroviario italiano.
+
+In linea con quanto previsto dall'art. 7 comma 5 della Direttiva (UE) 798/2016, l'ERA ha inoltre sottolineato la necessità di aggiornare quanto prima i valori di riferimento NRV, attualmente calcolati sulla base dei dati relativi agli anni 2004-2009, utilizzando valori CSI riferiti a periodi più recenti.
+
+Titolo: Il macchinista è la “persona capace e autorizzata a condurre in modo autonomo, responsabile e sicuro i treni, i locomotori, i locomotori di manovra, i treni adibiti a lavori, i veicoli ferroviari adibiti alla manutenzione e i treni per il trasporto di passeggeri e di merci per ferrovia”.
+
+Paragrafo:
+
+Il macchinista, figura centrale e storica nel settore ferroviario, è il professionista incaricato della guida dei treni. La sua routine quotidiana include il controllo del treno prima della partenza, durante il viaggio e al termine del servizio (ved. g. 4). Egli segnala tempestivamente eventuali problemi e interviene per risolverli seguendo procedure di sicurezza e comunicazione ben definite. Il macchinista funge da principale punto di contatto tra l'impresa di trasporto e il gestore dell'infrastruttura, riportando situazioni anomale e ricevendo istruzioni in base alle circostanze.
+
+Questo ruolo richiede un comportamento rigoroso, sia durante il servizio che al di fuori, mantenendo uno stile di vita adeguato alla responsabilità del ruolo. È essenziale possedere capacità di analisi, controllo emotivo, adattabilità a situazioni variabili e critiche, orientamento ai risultati e capacità decisionale.
+
+Dal punto di vista della psicologia ingegneristica, la guida del treno (ved. fig. 1) è un'attività che incorpora tutti gli elementi tipici del ciclo di monitoraggio (1). 
+
+Oltre alle operazioni preliminari alla partenza, come la preparazione del mezzo e le verifiche preventive necessarie per garantire la sicurezza e la regolarità del viaggio, il macchinista, durante la guida ordinaria, monitora costantemente tutti i parametri di marcia. L'obiettivo è minimizzare la differenza tra la velocità reale del treno e quella prevista, in base alle caratteristiche dell'infrastruttura e ai documenti specifici del treno. Il macchinista gestisce dinamicamente l'accelerazione e la frenatura per regolare la velocità del treno e adotta le operazioni necessarie per la conduzione del treno, anche in presenza di fattori esterni imprevisti. È inoltre addestrato a gestire, seguendo procedure specifiche, eventuali anomalie dell'infrastruttura, del convoglio e situazioni di emergenza.
+
+La principale normativa che regola l'attività di sicurezza è contenuta nel Decreto Legislativo 30 dicembre 2010, n. 247, che attua la direttiva 2007/59/CE relativa alla certificazione dei macchinisti addetti alla guida di locomotori e treni nel sistema ferroviario della Comunità Europea, e nei Decreti ANSF 4/2012 del 9/08/2012 e 8/2011 del 15/9/2011.
+
+Titolo: 2.1. Le fasi del processo di condotta dei treni
+
+Il processo di condotta dei treni è un insieme complesso di operazioni che richiede una preparazione meticolosa, un'esecuzione accurata e una gestione efficace delle varie situazioni operative che possono emergere durante il viaggio. Questo processo è suddiviso in diverse fasi, ciascuna delle quali è essenziale per garantire che il treno operi in modo sicuro, efficiente e conforme alle normative.
+
+La fase iniziale, dedicata alla preparazione e alle verifiche pre-partenza, è di importanza cruciale. In questa fase, il macchinista è responsabile di una serie di controlli preliminari per assicurarsi che il treno sia pronto a partire. Questi controlli comprendono la verifica delle capacità del mezzo di trazione, assicurandosi che i dispositivi di sicurezza, i freni e le apparecchiature di bordo siano funzionanti. Ogni dettaglio tecnico, dall'efficienza dei sistemi di frenata alla corretta impostazione degli strumenti di sicurezza, deve essere attentamente controllato per garantire condizioni di viaggio ottimali. Una preparazione accurata in questa fase è fondamentale per prevenire incidenti e guasti lungo il percorso, costituendo la base della sicurezza operativa.
+
+Successivamente, la fase delle attività correlate alla condotta pre-partenza include una serie di operazioni che completano la preparazione del treno. Queste operazioni comprendono le manovre necessarie per posizionare il treno nella configurazione corretta per il viaggio, come la movimentazione del materiale rotabile all'interno del deposito o in stazione, il collegamento delle carrozze e delle locomotive, e l'inserimento dei dati rilevanti nei sistemi di bordo. Questi preparativi garantiscono che il treno sia non solo tecnicamente pronto, ma anche correttamente posizionato per il suo itinerario, rispettando le condizioni previste per la partenza.
+
+Durante il viaggio, la fase della condotta in condizioni normali diventa il fulcro dell'attività del macchinista. In questa fase, il macchinista deve monitorare costantemente lo stato del treno e l'andamento del viaggio, rispettando rigorosamente la segnaletica ferroviaria e le velocità massime consentite, e prestando attenzione ai cambiamenti nelle condizioni di viaggio, come variazioni di pendenza o condizioni meteorologiche. Il macchinista deve essere sempre consapevole della posizione del treno lungo la tratta, mantenendo il controllo su tutti gli aspetti della marcia e assicurandosi che il viaggio proceda secondo il piano previsto. La capacità di mantenere la concentrazione e di reagire prontamente alle variazioni operative è essenziale per garantire un viaggio sicuro e puntuale.
+
+Un aspetto fondamentale durante la condotta è l'utilizzo dello spazio di lavoro e degli strumenti di bordo. La cabina di guida è un ambiente complesso, equipaggiato con una vasta gamma di strumenti e dispositivi che il macchinista deve sapere utilizzare con maestria. Questo include il controllo dei dispositivi di sicurezza, come i sistemi di frenatura, e la gestione delle comunicazioni con il centro di controllo. Ogni strumento ha una funzione specifica e il corretto utilizzo di questi strumenti è essenziale per mantenere il treno sotto controllo e prevenire incidenti. La familiarità con la disposizione degli strumenti e la capacità di manipolarli efficacemente, anche sotto pressione, è una competenza chiave per ogni macchinista.
+
+Nel corso del viaggio, possono verificarsi situazioni di anormalità che richiedono un intervento immediato e risolutivo. La fase della condotta in condizioni di anormalità richiede al macchinista di gestire con prontezza situazioni come guasti tecnici, condizioni meteorologiche avverse o malfunzionamenti della segnaletica ferroviaria. In tali circostanze, la formazione e l'esperienza del macchinista sono messe alla prova. Egli deve essere in grado di diagnosticare il problema rapidamente, prendere decisioni efficaci e, se necessario, adottare misure correttive per garantire la sicurezza del treno e dei passeggeri. La gestione delle emergenze è una delle competenze più critiche e complesse che un macchinista deve possedere, poiché la sua reazione può determinare l'esito di una situazione potenzialmente pericolosa.
+
+Quando il treno raggiunge la sua destinazione o si ferma per una sosta prolungata, la fase dell'immobilizzazione dei veicoli diventa prioritaria. In questa fase, il macchinista deve assicurarsi che il treno sia completamente fermo e in sicurezza. Questo implica l'applicazione dei freni, l'eventuale inserimento di dispositivi di bloccaggio e il rispetto di tutte le procedure necessarie per garantire che il treno non si muova accidentalmente. L'immobilizzazione corretta del treno è fondamentale per prevenire incidenti durante le fasi di sosta, soprattutto in aree in pendenza o in condizioni di traffico intenso.
+
+Infine, al termine del viaggio, la fase della rendicontazione della missione svolta richiede che il macchinista completi tutti i documenti tecnici relativi al viaggio. Questo include la segnalazione di eventuali anomalie o incidenti che si sono verificati, la verifica delle condizioni del treno al termine della missione e la compilazione dei rapporti necessari per il centro di controllo. Questa documentazione è essenziale per mantenere un registro accurato delle operazioni e per garantire che eventuali problemi siano affrontati prima del prossimo viaggio.
+
+Il processo di condotta dei treni è quindi un insieme articolato di attività che richiede non solo competenze tecniche approfondite, ma anche una costante vigilanza e capacità di adattamento. Le conoscenze professionali del macchinista sono indispensabili per svolgere tutte queste attività con successo. Tuttavia, queste conoscenze devono essere continuamente aggiornate e mantenute nel tempo, poiché il settore ferroviario è in continua evoluzione e le normative possono cambiare. Inoltre, la salute fisica e mentale del macchinista è di vitale importanza, poiché il ruolo richiede una concentrazione costante e la capacità di prendere decisioni rapide e informate in situazioni di stress. Solo con una preparazione adeguata, un continuo aggiornamento professionale e un buono stato di salute, il macchinista può garantire la sicurezza e l'efficienza del trasporto ferroviario.
+
+Titolo: 2.2 Gli obbiettivi di sicurezza
+
+Gli obiettivi di sicurezza e di efficienza assegnati al macchinista sono raggiunti quando la conduzione del treno avviene in modo sicuro e nel rispetto della traccia oraria stabilita.
+
+Tra i principali obiettivi di sicurezza per i macchinisti troviamo:
+
+- Prevenire le collisioni tra treni;
+- Evitare collisioni tra treni e ostacoli presenti sulla linea ferroviaria;
+- Garantire una guida confortevole per i passeggeri;
+- Fornire consigli e informazioni utili per una gestione sicura ed efficiente della circolazione dei treni;
+- Segnalare agli agenti incaricati il materiale rotabile che necessita di manutenzione.
+
+Per raggiungere questi obiettivi, i macchinisti devono seguire una complessa serie di regolamenti, istruzioni, procedure, decisioni e comunicazioni, coordinandosi con il resto del personale ferroviario che contribuisce alla sicurezza del trasporto ferroviario.
+
+In sintesi, i macchinisti sono responsabili della conduzione sicura dei treni, della comunicazione di informazioni sul materiale rotabile, sulla linea ferroviaria e sulla marcia del treno, e dell'emissione di eventuali allarmi, seguendo procedure e norme predefinite nel contesto operativo per cui sono abilitati a operare.
+
+Titolo: 2.3 Reclutamento e selezione
+
+Il ruolo del macchinista è ideale per individui che possiedono specifiche attitudini, come "rigore comportamentale", "elevato senso di responsabilità" e "capacità di lavoro autonomo", oltre alla flessibilità necessaria per lavorare su turni.
+
+Queste qualità, valutate durante il processo di selezione, vengono ulteriormente sviluppate attraverso l'acquisizione del know-how ferroviario, rendendole ancora più rilevanti per il ruolo. A partire dal conseguimento del diploma, anche i giovani con tali caratteristiche possono essere inseriti in un percorso formativo che funge non solo da scuola, ma anche da palestra per uno stile di vita.
+
+Per essere reclutati come macchinisti, è necessario soddisfare i seguenti requisiti principali:
+
+- Diploma di scuola superiore quinquennale ad indirizzo tecnico o scientifico.
+- Età non superiore ai 18 anni.
+
+Il processo di selezione, adottato dalla maggior parte delle imprese ferroviarie, si articola in diverse fasi, ciascuna propedeutica alla successiva:
+
+- Assessment online (test digitale);
+- Colloquio motivazionale;
+- Colloquio tecnico-professionale.
+
+I colloqui individuali sono fondamentali per esplorare gli aspetti attitudinali e motivazionali del candidato, nonché le conoscenze tecniche acquisite durante gli studi, essenziali per la formazione di base del macchinista.
+
+Per i candidati che superano tutte le fasi, è prevista una visita medica preliminare all'effettivo inserimento, per verificare l'idoneità fisica al ruolo, come richiesto per attività con un impatto significativo sulla sicurezza. Il superamento della visita medica conclude l'intero iter selettivo.
+
+I requisiti medici essenziali per i macchinisti, stabiliti nell'Allegato II della Direttiva 2007/59/CE, sono fondamentali per garantire che possano svolgere in sicurezza il loro ruolo di guida dei treni. La certificazione medica è indispensabile, poiché la guida di un treno comporta elevate responsabilità, inclusa la sicurezza di passeggeri, personale e merci. Questo ruolo richiede non solo abilità tecniche, ma anche una condizione fisica e mentale ottimale, necessaria per affrontare situazioni di emergenza.
+
+I requisiti medici includono esami per valutare vista, udito, funzione locomotoria e capacità di mantenere concentrazione e vigilanza per periodi prolungati. Ad esempio, la vista deve essere sufficiente per riconoscere segnali e ostacoli, e l'udito deve permettere di percepire avvisi sonori cruciali per la sicurezza. Inoltre, non devono essere presenti condizioni patologiche che possano interferire con la capacità di guidare, come episodi di perdita di coscienza improvvisa o altre malattie gravi che possano compromettere la sicurezza operativa.
+
+La visita medica non si limita alla valutazione dei requisiti fisici, ma include anche valutazioni psicologiche per identificare eventuali disturbi gravi della personalità.
+
+Il mantenimento di questi requisiti medici dopo l'entrata in servizio è altrettanto cruciale. La direttiva prevede visite mediche periodiche per monitorare l'idoneità continua dei macchinisti. Fino all'età di 55 anni, queste visite devono essere effettuate ogni tre anni, mentre dopo i 55 anni la frequenza diventa annuale. Questo monitoraggio regolare è necessario per assicurare che eventuali cambiamenti nella salute del macchinista, che potrebbero influire sulla sua capacità di guidare, vengano prontamente identificati e gestiti. In caso di cambiamenti significativi nello stato di salute, è previsto il ritiro temporaneo o permanente del certificato di idoneità, per garantire che solo personale pienamente idoneo sia autorizzato a condurre treni.
+
+Titolo: 2.4 Percorso di Formazione
+
+Una volta selezionati, i candidati vengono inseriti nelle strutture operative delle aziende ferroviarie. Qui, intraprendono un percorso formativo che culmina con l'ottenimento della certificazione necessaria per esercitare la professione di macchinista.
+
+Titolo: 2.4.1 Formazione per il conseguimento della Licenza Comunitaria
+
+La Licenza comunitaria di conduzione dei treni (vedi fig. 2), insieme al Certificato Complementare, rappresenta il titolo abilitativo armonizzato a livello europeo, noto anche come Patente Europea.
+
+L'adozione di un unico titolo abilitativo per la "conduzione dei veicoli ferroviari" (d'ora in avanti "condotta") è il risultato di un'iniziativa comunitaria sancita dalla Direttiva 2007/59/CE del Parlamento Europeo e del Consiglio del 23 ottobre 2007. Questa direttiva ha unificato i requisiti sanitari, professionali, di età, scolarizzazione e conoscenza linguistica per il ruolo di Macchinista, mediando tra le diverse normative precedentemente in vigore nei vari stati membri.
+
+L'obiettivo raggiunto consente di superare le differenze esistenti e facilita l'operatività dei Macchinisti su reti di gestori infrastrutturali diversi, anche in stati differenti all'interno del Sistema Infrastrutturale Europeo.
+
+La Direttiva 59 ha introdotto un modello composto da due documenti distinti: la Licenza, che traccia i requisiti sanitari e la conoscenza dei principi fondamentali del Sistema Ferroviario Interoperabile, e il Certificato Complementare Armonizzato (CCA), che attesta le competenze tecnico-regolamentari e operative necessarie per la condotta di specifici mezzi e su determinate porzioni di infrastruttura.
+
+Vediamo ora le competenze associate alla Licenza. La Direttiva 59, integrata dalla Direttiva 2014/82/UE del 24 giugno 2014 (recepita dal MIT con Decreto Ministeriale del 26 giugno 2015) e dal Regolamento (UE) N. 36/2010 della Commissione del 3 dicembre 2009, ha definito il concetto di competenza per la Licenza (vedi tab. 1) e l'elenco delle competenze ad essa associate:
+
+- lavoro del macchinista, ambiente di lavoro, ruolo e responsabilità del macchinista nell’esercizio ferroviario, requisiti professionali e personali derivanti dall’esercizio delle funzioni del macchinista;
+- tecnologie ferroviarie, compresi i principi di sicurezza che sottendono le normative di esercizio;
+- principi di base dell’infrastruttura ferroviaria;
+- principi di base della comunicazione nello svolgimento dell’esercizio ferroviario;
+- principi fondamentali di fisica;
+- treni, loro composizione e requisiti tecnici delle motrici, dei carri, delle carrozze e di altro materiale rotabile;
+- rischi legati all’esercizio ferroviario in generale.
+
+Le competenze associate alla Licenza mirano a fornire agli Agenti di Condotta una visione generale del Sistema Ferroviario, concentrandosi su conoscenze e principi di base applicabili indipendentemente dal tipo di materiale rotabile o infrastruttura. La Licenza viene rilasciata a ciascun Macchinista, sia che svolga solo il servizio di condotta delle manovre (abbinata a CCA cat. A), sia che possa condurre treni (abbinata a CCA cat. B), ed è valida in tutti gli stati della Comunità Europea. Pertanto, il corso di formazione per il rilascio della Licenza non include riferimenti specifici ai sistemi tecnologici dei mezzi o infrastrutturali presenti in Italia, ma tratta argomenti e principi di base comuni a tutti i Macchinisti.
+
+Il corso per ottenere la Licenza dura circa 80 ore effettive. È progettato tenendo conto delle competenze da acquisire e delle capacità di apprendimento del personale selezionato, che deve avere un livello di formazione scolastica equivalente al diploma di scuola superiore di secondo grado. La maggior parte delle imprese ferroviarie valuta i candidati in base alla loro attitudine e competenza nelle conoscenze di base di fisica, elettrotecnica e termodinamica.
+
+La preparazione di base dei candidati è fondamentale per frequentare il corso con profitto e superare l’esame finale previsto dalla Direttiva, i cui aspetti formali sono normati in Italia da ANSF con Decreto 8/2011.
+
+L’esame, condotto da una Commissione nominata dalla stessa impresa ferroviaria (se in possesso di uno specifico identificativo di controllo rilasciato da ANSFISA), consiste in una prova scritta e una orale. I candidati che superano l’esame ricevono la Licenza emessa da ANSFISA (smart card visibile in fig. 2), che riporta dati anagrafici, foto, firma, lingua madre ed eventuali annotazioni specifiche come l’obbligo di lenti. Gli agenti mantengono la Licenza indipendentemente dall’impresa ferroviaria presso cui prestano servizio. L’ottenimento della Licenza è il requisito per accedere al corso di formazione per il Certificato Complementare.
+
+Titolo: 2.4.2 Formazione per il conseguimento del Certificato Complementare Armonizzato (CCA)
+
+Il Certificato Complementare Armonizzato (vedi fig. 4) attesta le competenze professionali necessarie per operare come macchinista su specifici mezzi (locomotive, ETR, ATR, ecc.) e su determinate porzioni di infrastruttura ferroviaria (località, linee).
+
+I "contesti operativi" comprendono i mezzi, l'infrastruttura e la tecnologia, e saranno esaminati in dettaglio successivamente.
+
+Il percorso formativo si articola in fasi teoriche e pratiche (addestramento). Ogni fase si conclude con un esame che certifica le competenze acquisite.
+
+Segue un periodo di tirocinio. Il CCA certifica l'acquisizione e il mantenimento nel tempo delle competenze tecniche, normative, linguistiche, operative e comportamentali necessarie per la conduzione dei mezzi di trazione sull'infrastruttura ferroviaria.
+
+I compiti del macchinista, definiti dalla Direttiva 59 e dal D.Lgs 247/2010, includono:
+
+- Prove e verifiche prima della partenza
+- Conoscenza dei veicoli
+- Prova dei freni
+- Tipo di marcia e velocità limite del treno in base alle caratteristiche della linea
+- Conduzione del treno senza danneggiare impianti e materiale
+- Gestione di anomalie, incidenti, inconvenienti di esercizio, incendi e incidenti che coinvolgono persone
+- Condizioni per la ripresa della marcia dopo un incidente
+- Immobilizzazione del treno
+
+Il programma di formazione è strutturato in moduli didattici, con lezioni in aula e visite/esercitazioni negli impianti, stazioni e linee. La combinazione di teoria e pratica aiuta a contestualizzare le conoscenze acquisite.
+
+I simulatori di guida (vedi fig. 5) sono particolarmente utili per i candidati, permettendo loro di esercitarsi in un ambiente protetto e affrontare situazioni di crescente complessità.
+
+Una fase cruciale della formazione teorica è l'apprendimento dei contenuti normativi e delle disposizioni/prescrizioni, nonché la comprensione del collegamento logico tra i vari testi che regolano l'attività di condotta dei treni. Con l'aiuto dell'istruttore, i candidati acquisiscono i principi fondamentali da cui derivano le norme, essenziali per le fasi successive della formazione e per il futuro lavoro di macchinista.
+
+Al termine di questa fase, i candidati sostengono un esame teorico (scritto e orale) gestito da una commissione di tre esaminatori riconosciuti ANSFISA. Superato l'esame teorico, i candidati accedono alla formazione pratica.
+
+L'addestramento mira a sviluppare le capacità pratiche necessarie per eseguire tutte le operazioni previste dal ruolo nel contesto operativo individuato (vedi fig. 6). Un esempio tipico è la conduzione dei treni e delle manovre su varie tipologie di linee, in relazione al sistema di esercizio e al regime di circolazione.
+
+L'addestramento si svolge in affiancamento a macchinisti esperti e istruttori per un certo numero di servizi. Durante l'addestramento, il simulatore di guida viene utilizzato per affrontare situazioni operative non replicabili durante il servizio commerciale, in particolare per la gestione di situazioni di degrado della circolazione e del mezzo di trazione.
+
+L'esame per la certificazione delle competenze professionali viene svolto da una commissione sui contesti operativi e le linee riportate sul Certificato di Sicurezza.
+
+L'esame finale teorico-pratico comprende:
+
+- Esame teorico (scritto e orale)
+- Prova pratica di conduzione di un treno commerciale in presenza della commissione esaminatrice
+
+Superato l'esame finale, i candidati svolgono un periodo di tirocinio, la cui durata è proporzionale alle caratteristiche del servizio che andranno a svolgere e personalizzata per ciascun candidato. Il tirocinio, svolto in affiancamento a personale esperto o istruttori, ha lo scopo di contestualizzare le competenze acquisite durante il corso al ruolo di macchinista nell'impianto di assegnazione.
+
+Titolo: 2.4.3 Formazione continua e certificazione periodica
+
+Una volta ottenuta la Licenza e il Certificato Complementare Armonizzato, noto anche come "Patente Europea", il personale di condotta entra in un sistema strutturato dagli Impianti Condotta per garantire il mantenimento delle competenze acquisite.
+
+Il mantenimento delle competenze si suddivide in due principali attività:
+
+1. Monitoraggio dell’esecuzione dei compiti
+2. Seguito individuale delle competenze
+
+Il "monitoraggio dell’esecuzione dei compiti" degli Agenti di Condotta (AdC) prevede una verifica individuale delle competenze in tre aree chiave:
+
+- Sapere (conoscenze)
+- Saper fare (abilità operative osservabili)
+- Saper essere (comportamenti)
+
+Questa attività è svolta dagli Istruttori/Esaminatori di Condotta attraverso contatti diretti, come scorte e sessioni di test ai Simulatori di condotta, e indiretti, come la lettura delle registrazioni tachigrafiche e l'analisi degli inconvenienti d’esercizio.
+
+Il "seguito individuale delle competenze" si concretizza nella formazione continua, che include:
+
+- Definizione dei bisogni formativi individuali in base alle discrepanze tra competenze attese e constatate
+- Pianificazione e attuazione di interventi formativi mirati per il ripristino delle competenze
+- Pianificazione e attuazione del programma annuale, che comprende aggiornamenti in aula e sessioni al Simulatore
+- Colloqui durante i quali gli AdC possono porre domande o fare segnalazioni tecniche, regolamentari o organizzative all’Istruttore
+
+In sostanza, dopo il rilascio iniziale del titolo abilitativo, il macchinista è inserito in un processo continuo di osservazione e valutazione delle sue competenze e comportamenti operativi. Questo processo mira a garantire un costante aggiornamento professionale e una crescita continua verso l’eccellenza, in linea con i principi di miglioramento continuo del Sistema di Gestione della Sicurezza.
+
+Una significativa innovazione introdotta dal DLgs 247/10 riguarda gli esami periodici per il rinnovo del Certificato Complementare. Per mantenere la validità del certificato, il macchinista deve superare esami periodici che verificano la persistenza dei seguenti requisiti:
+
+- Conoscenza linguistica (solo per gli agenti di madrelingua diversa)
+- Conoscenze dei veicoli
+- Conoscenze relative all’infrastruttura
+- Conoscenze relative al contesto operativo
+
+In conclusione, il percorso formativo che inizia con l'istruzione superiore culmina dopo quasi un anno con la guida di un treno. Il candidato acquisisce conoscenze e competenze che influenzano positivamente il suo carattere e il modo di essere, rendendolo consapevole della responsabilità sociale del suo ruolo. Questo mestiere, altamente impegnativo sia professionalmente che come stile di vita, è sicuramente affascinante come pochi altri.
+
+Titolo: 2.5 Regolamenti e Procedure di Sicurezza
+
+L'Agenzia Nazionale per la Sicurezza delle Ferrovie (ANSF, ora ANSFISA), in conformità al D.Lgs. 162/2007* che recepisce le direttive 2004/49/CE e 2004/51/CE sulla sicurezza e lo sviluppo delle ferrovie comunitarie (vedi fig. 1), ha il compito di stabilire il quadro normativo in materia di sicurezza, proponendone il necessario riordino. In particolare, l'articolo 6, lettera a) del decreto, affida all'Agenzia questo incarico. 
+
+Il 9 agosto 2012, l'ANSF ha emanato la Direttiva 1/2012 (vedi fig. 2), immediatamente esecutiva, che fornisce le "Linee guida per lo svolgimento delle attività a carico degli operatori ferroviari a seguito del riordino del quadro normativo". Inoltre, ha emesso il Decreto 4/2012, entrato in vigore il 1° gennaio 2013, che riguarda le "Attribuzioni in materia di sicurezza della circolazione ferroviaria", il "Regolamento per la circolazione ferroviaria" e le "Norme per la qualificazione del personale impiegato in attività di sicurezza della circolazione ferroviaria".
+
+La Direttiva delinea la finalità del riordino normativo, richiamando il Decreto Legislativo n.162, che disciplina le condizioni di sicurezza del sistema ferroviario italiano. Questo avviene attraverso l'adeguamento e l'armonizzazione della normativa nazionale con quella comunitaria, l'adozione progressiva di obiettivi e metodi comuni di sicurezza, e l'assegnazione di compiti e responsabilità tra i soggetti interessati.
+
+Inoltre, la Direttiva stabilisce il principio dell'attribuzione delle responsabilità, affermando che ogni gestore dell'infrastruttura e ogni impresa ferroviaria sono responsabili della propria parte del sistema e del suo funzionamento sicuro. L'Agenzia deve garantire che la responsabilità del funzionamento sicuro del sistema ferroviario e del controllo dei rischi ricada su questi operatori, obbligandoli a implementare le necessarie misure di controllo del rischio, ad applicare le norme e gli standard di sicurezza nazionali e a istituire sistemi di gestione della sicurezza. Queste disposizioni, in attuazione dell'art. 4, comma 3, della Direttiva 2004/49/CE, sintetizzano efficacemente il principio dell'attribuzione delle responsabilità per gli operatori ferroviari.
+
+Infine, la Direttiva definisce l'architettura del quadro normativo a regime, costituito da:
+a. normativa comunitaria e nazionale;
+b. norme tecniche e standard di sicurezza emanati dall'Agenzia, contenenti i principi e i criteri necessari per la sicurezza della circolazione ferroviaria;
+c. disposizioni e prescrizioni di esercizio emanate dai gestori dell'infrastruttura e dalle imprese ferroviarie, incluse le procedure di interfaccia tra gestori e imprese.
+
+Titolo: 
+
+Paragrafo:
+
+La tecnologia ha trasformato radicalmente il modo in cui comunichiamo. In passato, le lettere e le telefonate erano i principali mezzi di comunicazione a distanza. Oggi, invece, utilizziamo email, messaggi istantanei e social media per rimanere in contatto con amici, familiari e colleghi. Questa evoluzione ha reso la comunicazione più veloce e accessibile, ma ha anche sollevato nuove sfide, come la gestione della privacy e la dipendenza dai dispositivi digitali.
+
+Paragrafo Riscritto:
+
+La tecnologia ha rivoluzionato il nostro modo di comunicare. Un tempo, le lettere e le telefonate rappresentavano i principali strumenti per mantenere i contatti a distanza. Al giorno d'oggi, ci affidiamo a email, messaggi istantanei e piattaforme di social media per interagire con amici, familiari e colleghi. Questo cambiamento ha reso la comunicazione più rapida e accessibile, ma ha anche introdotto nuove problematiche, come la tutela della privacy e la dipendenza dai dispositivi digitali.
+
+Titolo: 3.1 Il Significato di Fattore Umano
+
+Paragrafo:
+Gli incidenti non sono semplicemente il risultato di errori isolati, ma piuttosto di una complessa interazione tra fattori tecnici, umani e organizzativi. Una delle sfide principali è gestire queste interazioni. L'attenzione si è quindi spostata verso un approccio sistemico ai fattori umani, che includono elementi come la fatica, la disattenzione e la mancanza di formazione adeguata, tutti fattori che contribuiscono significativamente agli incidenti ferroviari e che richiedono un'analisi e una prevenzione costante.
+
+Il fattore umano, che si articola in tre aspetti interconnessi: il lavoro, l'individuo e l'organizzazione, gioca un ruolo cruciale nella maggior parte degli incidenti e quasi-incidenti. Spesso, non sono le attrezzature a causare gli incidenti, ma le modalità di lavoro, che includono comportamenti come la non osservanza delle procedure, errori operativi, dimenticanze e violazioni.
+
+L'efficacia delle misure preventive dipende da una valutazione approfondita del fattore umano, considerato un elemento osservabile, misurabile e valutabile, per prevenire azioni inappropriate e garantire la massima sicurezza operativa. Studiare il fattore umano è essenziale per portare gli operatori a un livello di affidabilità che consenta loro di operare, monitorare e prendere decisioni in modo sicuro. Decisioni errate possono derivare da lacune cognitive, mancata percezione del rischio, incomprensioni e decisioni fallite, aumentando i rischi per la salute e la sicurezza.
+
+Secondo l'approccio organizzativo, gli incidenti in contesti complessi non sono semplicemente il risultato di violazioni delle norme e delle procedure esistenti. Spesso, la stessa struttura normativa e procedurale può essere parte del problema, specialmente quando queste norme sono ambigue, inadatte o non tengono conto delle dinamiche operative reali. Questo concetto è stato esplorato da James Reason nel 1997, quando ha introdotto la distinzione tra errori attivi e fattori latenti, proponendo un modello di analisi degli incidenti che ha rivoluzionato la comprensione della sicurezza nelle organizzazioni.
+
+Modelli come il "Swiss Cheese Model" di James Reason e il modello di Jens Rasmussen aiutano a comprendere come gli errori possano propagarsi attraverso i vari livelli di un'organizzazione fino a causare un incidente. Reason ha identificato gli incidenti come il risultato di una combinazione di errori attivi e latenti, all'interno di sistemi con una scarsa cultura della sicurezza.
+
+Gli errori attivi sono quelli immediati e visibili, commessi da operatori di prima linea direttamente coinvolti nell'esecuzione di un compito. Sebbene spesso identificati come la causa diretta di un incidente, non sono l'unico fattore da considerare. La presenza di errori attivi è spesso sintomatica di problemi più profondi all'interno dell'organizzazione, che Reason definisce come fattori latenti. Questi sono difetti nascosti nel sistema, introdotti da decisioni prese a livelli manageriali superiori, che possono rimanere nascosti per lungo tempo prima di contribuire a un incidente. Questi includono decisioni sbagliate nella progettazione del sistema, nella gestione delle risorse, nelle pratiche di manutenzione, nella formazione del personale e nella cultura organizzativa. In altre parole, sono quei fattori di rischio incorporati nel sistema stesso che, una volta combinati con un errore attivo, possono portare a un incidente. La concatenazione di fattori latenti e di errori attivi può essere paragonata a un effetto domino, dove le tessere rappresentano difese o barriere contro gli incidenti. Quando i fattori latenti si accumulano senza essere rilevati o gestiti, si creano falle nelle barriere di sicurezza. Un singolo errore attivo, in queste condizioni, può avere un impatto devastante, scatenando una reazione a catena che porta all'incidente. Ad esempio, in un contesto ferroviario, un errore umano come la mancata osservanza di un segnale potrebbe essere direttamente responsabile di un incidente. Tuttavia, un'analisi più approfondita potrebbe rivelare che il segnale era mal progettato, male illuminato, o che il personale non era adeguatamente formato per riconoscerlo correttamente sotto certe condizioni operative. Questi sono esempi di fattori latenti che, se non affrontati, aumentano il rischio di incidenti.
+
+Una delle implicazioni chiave del modello di Reason è la necessità di sviluppare una cultura della sicurezza all'interno delle organizzazioni, dove i fattori latenti vengono costantemente monitorati e gestiti. Una cultura della sicurezza solida è caratterizzata da una comunicazione aperta, dove i problemi possono essere sollevati senza paura di ritorsioni, e dove le lezioni apprese dagli errori passati vengono integrate nelle pratiche quotidiane.
+
+La resilienza di un sistema dipende in larga misura dalla sua capacità di identificare e correggere questi fattori latenti prima che possano contribuire a un incidente. Le organizzazioni resilienti non solo reagiscono agli errori attivi, ma cercano attivamente di identificare le vulnerabilità nascoste nel loro sistema. Questo richiede un approccio proattivo alla gestione della sicurezza, che include audit regolari, feedback continuo da parte degli operatori di prima linea e una revisione periodica delle procedure operative. In definitiva, comprendere gli incidenti organizzativi richiede un'analisi approfondita che va oltre l'errore umano immediato per esplorare i fattori latenti che predispongono il sistema al fallimento. Il modello di Reason ci insegna che la sicurezza non può essere garantita solo attraverso la conformità alle norme e alle procedure, ma richiede un impegno continuo a identificare e mitigare le vulnerabilità sistemiche. Rafforzare la resilienza di un sistema significa sviluppare una cultura della sicurezza che valorizza la trasparenza, l'apprendimento e l'adattabilità, garantendo che gli errori non diventino l'innesco di disastri.
+
+James Reason esplora a fondo le diverse tipologie di errori umani, suddividendoli principalmente in tre categorie: slips (scivoloni), lapses (dimenticanze) e mistakes (errori). Slips e lapses sono considerati errori basati sulle abilità (skill-based errors). Mentre gli slips sono azioni che non vanno come pianificato a causa di problemi nell'esecuzione, le lapses implicano un fallimento della memoria. Mistakes, invece, sono suddivisi in rule-based (basati su regole) e knowledge-based (basati sulla conoscenza). I primi si verificano quando vengono applicate regole inappropriate, mentre i secondi derivano da una mancanza di conoscenze adeguate.
+
+Le dimenticanze (lapses) sono un tipo di errore che coinvolge principalmente il malfunzionamento della memoria. Questi errori si verificano quando un'azione o un'intenzione pianificata non viene eseguita perché l'individuo dimentica di farlo. Le cause delle dimenticanze sono molteplici, tra cui:
+
+- Distrazione: Una delle principali cause delle dimenticanze è la distrazione. Quando un individuo è distratto, le risorse cognitive disponibili per la memoria a breve termine diminuiscono, aumentando la probabilità di lapses.
+- Sovraccarico di informazioni: Un eccesso di informazioni da gestire simultaneamente può sovraccaricare la memoria a breve termine, portando a dimenticanze.
+- Routine e automazione: Le attività routinarie, spesso eseguite in modo automatico, possono essere particolarmente suscettibili alle dimenticanze, specialmente se si verifica un'interruzione o un cambiamento nella sequenza abituale delle azioni.
+
+La prevenzione delle dimenticanze passa attraverso la progettazione e l'implementazione di nuovi sistemi di:
+
+- Formazione: Formare il personale a riconoscere e gestire i fattori che contribuiscono alle dimenticanze può aiutare a minimizzare questi errori.
+- Ambiente di lavoro: Creare un ambiente di lavoro che riduca le distrazioni e il sovraccarico informativo può aiutare a prevenire le lapses.
+- Uso di tecnologie a supporto del sistema cognitivo per ridurre le dimenticanze.
+
+Titolo: 3.2 L’Introduzione del Fattore Umano nel Sistema Ferroviario
+
+È ben noto che ogni attività lavorativa, inclusa quella ferroviaria, è soggetta a errori operativi che possono deviare dalle norme stabilite. Questi errori possono essere attribuiti allo stato psicofisico e alle competenze degli individui coinvolti. Pertanto, lo sviluppo e l'implementazione di tecnologie adeguate devono essere accompagnati da una crescente attenzione alla componente umana, un aspetto ritenuto essenziale anche dalle normative comunitarie vigenti. La recente evoluzione normativa europea ha portato all'emanazione della Direttiva (UE) 2016/798 del Parlamento europeo e del Consiglio, da cui deriva il Regolamento (UE) 2018/762. Questo regolamento stabilisce metodi comuni di sicurezza (Common Safety Methods - CSM) per i requisiti del Sistema di Gestione della Sicurezza delle Imprese Ferroviarie (IF) e dei Gestori Infrastruttura (GI), e i requisiti necessari per ottenere il Certificato di Sicurezza Unico per le IF e l'Autorizzazione per i GI. Esso identifica nella cultura della sicurezza proattiva e nell'approccio al fattore umano le nuove frontiere per migliorare ulteriormente la sicurezza del trasporto ferroviario.
+
+Un esempio di questa attenzione è la pubblicazione da parte dell'EUAR del documento "Introduction to the European Railway Safety Culture Model" (ved. g. 1)(4), che afferma: "Per molti anni, le prestazioni di sicurezza delle organizzazioni ad alto rischio, misurate comunemente con la frequenza degli incidenti, sono migliorate continuamente. Tuttavia, oggi siamo arrivati a valori che non migliorano più in maniera significativa. Concentrarsi solo sugli aspetti tecnici e sul rafforzamento delle procedure non si traduce più in una riduzione degli incidenti e degli infortuni. È diventato chiaro quanto sia fondamentale concentrarsi su aspetti organizzativi informali, come il lavoro di squadra e la leadership, che hanno un impatto sulla sicurezza. Disastri come l'incidente nucleare di Chernobyl, l'esplosione della navetta spaziale Challenger e l'incidente ferroviario a bivio Clapham negli anni '80, hanno confermato l'importanza di mettere al centro il concetto di cultura della sicurezza. Anche dall'analisi di questi incidenti è evidente che i comportamenti degli individui a tutti i livelli giocano un ruolo determinante negli accadimenti".
+
+Un ulteriore esempio è il documento "Integrating Human Factors in European Railways - Safety Management Systems" (ved. g. 2)(5), sempre pubblicato dall'EUAR, che sottolinea: "I fattori umani giocano un ruolo sempre più importante nei sistemi moderni complessi e critici per la sicurezza. Anche quando alcuni processi sono automatizzati per ridurre l'errore umano, le persone restano una parte essenziale. Le persone sono al centro del nostro sistema tecnologico, sociale e organizzativo e sono la chiave per il successo o il fallimento".
+
+È necessario integrare il paradigma tecnico-normativo con uno spirito innovativo, riconoscendo che i risultati raggiunti nel campo della sicurezza sul lavoro sono ancora ampiamente migliorabili. Gli infortuni e gli incidenti sul lavoro devono essere affrontati come eventi umani complessi e multi-causali, comportamentali e culturali, e non solo di natura tecnica. È essenziale avviare una trasformazione che valorizzi le persone e i comportamenti umani, superando il vecchio paradigma basato esclusivamente sulla tecnica.
+
+Tradizionalmente, la sicurezza ferroviaria si concentrava principalmente su aspetti tecnici e normativi, mentre il ruolo dei fattori umani veniva spesso sottovalutato. L'analisi degli eventi incidentali suggerisce di guardare oltre i paradigmi tecnici e organizzativi tradizionali, indagando le componenti culturali e comportamentali delle persone. L'approccio sistematico ai fattori umani prevede:
+
+- Progettazione centrata sull'utente: Le interfacce uomo-macchina devono essere progettate tenendo conto delle capacità e dei limiti degli operatori, per ridurre al minimo gli errori e migliorare l'efficienza operativa.
+- Gestione dello stress e della fatica: Le condizioni di lavoro devono essere monitorate e gestite per prevenire il sovraccarico di lavoro, la fatica e lo stress, che possono compromettere la sicurezza.
+- Formazione e consapevolezza: I dipendenti devono essere adeguatamente formati non solo sulle procedure tecniche, ma anche sulla gestione dei rischi e sulla cultura della sicurezza, per garantire che siano pronti ad affrontare le situazioni di emergenza.
+
+La vera sfida per raggiungere e mantenere l'obiettivo "incidentalità zero" nel settore ferroviario consiste nel mettere a punto una strategia predittiva in grado di gestire al meglio i processi e i rischi operativi correlati, comprese le situazioni impreviste. Questo richiede il rafforzamento della leadership dell'organizzazione (dirigenti, soggetti apicali, capi e lavoratori esperti), delle competenze (anche non tecniche) dei lavoratori, della vigilanza e del riesame periodico delle attività, anche in seguito alla valutazione dei rischi.
+
+È altrettanto necessario focalizzare l'attenzione sull'analisi dei rischi in tutti gli scenari che possono provocare eventi pericolosi e incidenti, risolvendo le complesse interrelazioni tra norme, uomo, macchina e ambiente (fisico e sociale) all'interno delle organizzazioni. In questo contesto, il Fattore Umano è una pietra angolare su cui si poggia la sicurezza, sia per IF/GI che per ECM, e deve essere monitorato costantemente in termini di efficacia e affidabilità.

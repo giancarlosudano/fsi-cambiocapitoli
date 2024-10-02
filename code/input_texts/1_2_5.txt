@@ -1,0 +1,19 @@
+1.2.5. Considerazioni sul metodo 
+
+Nella valutazione annuale 2022 viene fatto un esplicito rimando al documento “valutazione ex-post del CSM CST” emesso dall’ERA a marzo 2021,  
+
+In tale Report l’ERA evidenzia i “limiti” del metodo adottato, principalmente imputati a valori NRV non aggiornati e per questo, in alcuni casi, troppo alti rispetto al valore che assumerebbero se calcolati su basi statistiche più recenti ed accurate rispetto al passato. 
+
+Infatti il metodo si basa sul confronto tra la media mobile MWA delle prestazioni di sicurezza nel recente periodo, in particolare nell’intervallo temporale 2016 - 2020 in relazione all’ultima valutazione, con un set “statico” di valori di riferimento NRV calcolati nell’intervallo temporale 2004-2009. Poiché le prestazioni di sicurezza a livello europeo sono considerevolmente migliorate dal 2004 (ved. fig. 5), il metodo, così come attualmente concepito, non intercetta eventuali peggioramenti delle prestazioni di sicurezza negli ultimi periodi. 
+
+L’ERA evidenzia quindi la necessità di un aggiornamento dei valori di riferimento NRV, in coerenza con quanto previsto dalla Direttiva (UE) 798/2016 (art. 7 comma 5), al fine di migliorare l’efficacia dell’applicazione del CSM definito nella Decisione 2009/460/CE nello spirito del miglioramento continuo delle prestazioni di sicurezza. 
+
+A tale riguardo, nel report di valutazione ex-post del CSM CST è stata inserita anche una proiezione dei risultati confrontando la valutazione 2020 con un ipotetico 3° set di valori NRV/CST basato sui dati dei CSI calcolati negli anni 2013-2017, da cui risulterebbe un peggioramento per l’Italia nelle categorie di rischio “Passeggeri” e “Dipendenti o Imprese Appaltatrici”, come evidenziato nella seguente tabella 2, estratta dal report stesso. 
+
+5. Conclusioni 
+
+Come evidenziato dall’ERA nell’ultimo Report sul raggiungimento degli obiettivi di sicurezza, per il secondo anno consecutivo le prestazioni di sicurezza per l’Italia sono risultate accettabili al primo step per tutte le categorie di rischio. 
+
+Anche la valutazione 2021 aveva evidenziato per l’Italia una prestazione accettabile già al primo step per tutte le categorie di rischio, migliorando i risultati della precedente valutazione in cui, per la categoria “Persone non autorizzate”, le performance risultavano comunque accettabili, ma al secondo step di valutazione, a conferma della tendenza positiva delle prestazioni di sicurezza complessive del sistema ferroviario italiano. 
+
+In coerenza con quanto previsto dall’art.7 comma 5 della Direttiva (UE) 798/2016, l’ERA ha altresì evidenziato la necessità di aggiornare quanto prima i valori di riferimento NRV, oggi calcolati tenendo conto dei dati relativi agli anni 2004-2009, utilizzando valori CSI riferiti a periodi più recenti. 

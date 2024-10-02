@@ -1,0 +1,21 @@
+1.2.3. Metodo di valutazione  
+
+La procedura seguita per ottenere la valutazione del raggiungimento degli obiettivi di sicurezza, applicata dall’ERA ed illustrata nel flow-chart seguente (ved. fig. 3), prevede 4 step a cascata e 3 possibili risultati. 
+
+In caso di “possibile deterioramento delle performance di sicurezza” lo Stato membro deve produrre una relazione alla Commissione Europea in cui evidenziare le cause del peggioramento; in caso di probabile deterioramento delle performance di sicurezza lo Stato membro deve fornire alla Commissione un Piano di miglioramento della sicurezza. In buona sostanza, in questi due casi al paese membro viene richiesto di analizzare e commentare la propria prestazione ed eventualmente di presentare un “Safety Enhancement Plan”, ovvero un piano di “rafforzamento” della sicurezza. 
+
+Di seguito sono descritte le fasi del flow chart con riferimento all’ultima valutazione annuale (2022): 
+
+Prima fase: i valori della media ponderata mobile (2016-2020) / ultimo valore osservato (2020) sono confrontati con il valore obiettivo assegnato NRV. Se uno di questi valori non supera il NRV il livello di sicurezza viene considerato accettabile. In caso negativo, la procedura continua con la seconda fase di valutazione. 
+
+Seconda fase: il valore della media ponderata mobile viene confrontato con il valore NRV * 1,2. Se la media ponderata non supera tale prodotto il livello di sicurezza viene considerato accettabile. In caso contrario l’ERA contatta l’autorità nazionale preposta alla sicurezza degli Stati membri (nel ns. caso l’ANSFISA) interessati per recuperare informazioni sul singolo incidente con le conseguenze più gravi negli ultimi cinque anni segnalati; se tale incidente è più grave, in termini di conseguenze sulle persone, del peggiore incidente incluso nei calcoli del NRV, esso è escluso dal calcolo della media mobile (MWA - Moving Weighted Average), che viene quindi ricalcolata. Se il ricalcolo è inferiore al valore NRV * 1,2 il livello di sicurezza è considerato accettabile, diversamente si passa alla terza fase dello schema di flusso. 
+
+Terza fase: viene effettuata la verifica sull’eventuale esito negativo, per la prima volta negli ultimi tre anni, della seconda fase. Il risultato di questa verifica porta alla quarta fase. 
+
+Quarta fase: consiste nella verifica se il numero di incidenti significativi è rimasto stabile o è diminuito. Il risultato di quest’ultima valutazione individua tre possibili risultati: 
+
+performance di sicurezza accettabile; 
+
+possibile deterioramento delle performance di sicurezza; 
+
+probabile deterioramento delle performance di sicurezza. 

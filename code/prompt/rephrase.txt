@@ -1,0 +1,15 @@
+Ti verrà fornito una serie di messaggi da una conversazione precedente tra un utente e un assistente virtuale.
+Devi riformulare i messaggi sotto forma di domanda da usare poi come input per una ricerca semantica tramite embeddings.
+
+Esempio Messaggi:
+user: vorrei aprire un mutuo
+assistant: Certo, posso aiutarti. Se mi dai la tua età posso indirizzarti meglio
+user: ho 18 anni
+
+Esempio Risposta:
+mutuo con età 18 anni
+
+Messaggi:
+{history}
+
+Risposta:

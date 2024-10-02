@@ -1,0 +1,84 @@
+1.2.1. Quadro normativo di riferimento 
+
+Come noto, l’Unione Europea ha definito attraverso l’ERA famiglie di indicatori per misurare in modo armonizzato le prestazioni di sicurezza dei vari Stati membri, denominati indicatori comuni di sicurezza (CSI – Common Safety Indicators), stabilendo un approccio comune a livello europeo per misurare i livelli di sicurezza.  
+
+I CSI (ved. fig. 2) sono distinti nelle seguenti tipologie, come definito nell’allegato I della Direttiva (UE) 798/2016 “sulla sicurezza delle ferrovie”, recepita nell’ordinamento legislativo nazionale dal Decreto 50/2019 “Attuazione della direttiva 2016/798 del Parlamento europeo e del Consiglio, dell’11 maggio 2016, sulla sicurezza delle ferrovie”: 
+
+indicatori relativi a incidenti significativi/danni alle persone; 
+
+indicatori relativi alle merci pericolose; 
+
+indicatori relativi ai suicidi/tentati suicidi; 
+
+indicatori relativi ai precursori di incidenti; 
+
+impatto economico degli incidenti; 
+
+indicatori relativi alla sicurezza tecnica dell’infrastruttura e della sua realizzazione.  
+
+Tra questi, assumono particolare rilevanza gli indicatori relativi agli incidenti significativi1, suddivisi in base alle seguenti tipologie: 
+
+collisione di treno con veicolo ferroviario; 
+
+collisione di treno contro ostacolo che ingombra la 
+
+sagoma libera dei binari; 
+
+deragliamento di treno; 
+
+incidente al passaggio a livello, compresi gli incidenti che coinvolgono pedoni ai passaggi a livello; 
+
+incidente alle persone che coinvolge materiale rotabile in movimento, eccetto suicidi e tentati suicidi; 
+
+incendio a bordo del materiale rotabile; 
+
+altro2 
+
+Il calcolo degli incidenti significativi consente di misurare le prestazioni di sicurezza e valutare il raggiungimento degli Obiettivi di Sicurezza comuni (CST3 - Common Safety Target), fissati anche questi ultimi in sede di Unione come valori di riferimento per l’intero sistema ferroviario europeo e definiti attraverso Metodi Comuni di Sicurezza (CSM4 - Common Safety Method). 
+
+Gli obiettivi e i metodi comuni sono necessari per assicurare che in nessuno stato membro si verifichino riduzioni dei livelli di sicurezza del sistema ferroviario. Gli indicatori consentono sia di monitorare le prestazioni di sicurezza ma anche di valutare la loro accettabilità, attraverso la verifica annuale dei “danni alle persone” causati da incidenti significativi. A tal fine l’ERA ha definito delle “categorie di rischio”, relative a tipologie di persone distinte per le diverse modalità di interferenza con il sistema ferroviario; a ciascuna categoria la normativa europea assegna un Valore di Riferimento Nazionale (NRV - National Reference Value). 
+
+Tali “categorie di rischio” sono le seguenti: 
+
+passeggero (anche in relazione al numero totale di passeggeri-chilometri e di passeggeri per treno-chilometro); 
+
+dipendente o impresa appaltatrice; 
+
+utilizzatore del passaggio a livello; 
+
+persona che attraversa indebitamente la sede ferroviaria (persone non autorizzate o “trespassers”); 
+
+altra persona sul marciapiede; 
+
+altra persona che non si trova sul marciapiede; 
+
+rischio per la società nel suo insieme (sommatoria dei precedenti). 
+
+Tutte le categorie sopra indicate fanno riferimento ad eventi “involontari”, ad eccezione di quella rappresentata dalla “persona che attraversa indebitamente la sede ferroviaria”, poiché quest’ultima è ascrivibile ad un atto volontario di infrazione, sul quale il singolo Gestore Infrastruttura ha limitate possibilità di incidere. Dalle sopra indicate categorie sono inoltre esclusi i suicidi/ tentati suicidi. 
+
+Il Valore di Riferimento Nazionale fornisce una misura numerica del danno che il sistema ferroviario produce alle persone che con esso in qualche modo interagiscono. 
+
+La Decisione 2009/460/CE ha definito l’unità di misura per quantificare i danni alle persone; tale unità di misura è rappresentata dal FWSI (Fatalities and Weighted Serious Injures - Incidenti Mortali e Lesioni Gravi Ponderate), che è pari ad 1 nel caso di decesso verificatosi 
+
+in seguito ad un incidente. Inoltre, secondo la normativa in vigore, 1 lesione/ferimento grave è pari a 0,1 decesso (1 lesione/ferimento grave= 0,1 FWSI). 
+
+È opportuno precisare che i valori obiettivo (CST e NRV) riguardano tutto il “sistema ferroviario” del Paese e quindi sono le risultanze dei danni provocati da incidenti significativi riconducibili sia alle attività dei Gestori Infrastruttura che a quelle delle Imprese Ferroviarie. 
+
+L’algoritmo di calcolo degli NRV è basato sul concetto di media ponderata dei dati storici dell’incidentalità in ogni singolo Stato membro; sulla scorta di tali NRV, 
+
+l’ERA ha anche definito, con analogo algoritmo, i corrispondenti CST, valori obiettivo validi a livello europeo. 
+
+Il metodo di calcolo dei CST e NRV è definito nella Decisione 2009/460/CE della Commissione, “relativa all’adozione di un metodo di sicurezza comune per la valutazione di realizzazione degli obiettivi in materia di sicurezza, di cui all’articolo 6 della direttiva 2004/49/ CE del Parlamento europeo e del Consiglio”, mentre i valori numerici di riferimento sono contenuti nelle Decisioni 2013/753/UE e 2012/226/UE. 
+
+In particolare, i valori dei CST e il secondo set dei NRV sono stati stabiliti dall’ERA utilizzando i dati dell’incidentalità nell’Unione Europea per gli anni 2004-2009, a conferma dell’approccio europeo basato sul principio che i livelli di sicurezza del sistema ferroviario comunitario sono generalmente elevati e considerati intrinsecamente accettabili, come del resto evidenziato nel considerando 4 della Direttiva (UE) 798/2016: 
+
+“I livelli di sicurezza del sistema ferroviario dell’Unione sono generalmente elevati, in particolare rispetto al trasporto stradale. La sicurezza ferroviaria dovrebbe essere generalmente mantenuta e, ove praticabile, continuamente migliorata, tenendo conto del progresso tecnico e scientifico e dello sviluppo del diritto dell’Unione e internazionale. Dovrebbe essere data priorità alla prevenzione degli incidenti. Si dovrebbe inoltre tenere 
+
+conto dell’impatto del fattore umano.” 
+
+Per ognuna delle categorie di rischio, una volta che il valore NRV è stato calcolato per ogni Stato membro, al CST corrispondente viene assegnato un valore eguale a quello più basso tra: 
+
+il valore dello NRV più elevato tra gli Stati membri; 
+
+il valore eguale a dieci volte la media europea del NRV considerato. 
+
